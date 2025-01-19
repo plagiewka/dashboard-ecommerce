@@ -75,5 +75,5 @@
 
 ## 9\. Załączniki
 
-1.  [Dokumentacja projektowa](https://docmost.kodocloud.cc/s/powerbi/p/dokumentacja-projektowa-4VS1RGqbQt)
-2.  [Dokumentacja techniczna](https://docmost.kodocloud.cc/s/powerbi/p/dokumentacja-techniczna-JdzLUZhGFh)
+1.  Dokumentacja projektowa
+2.  Dokumentacja techniczna
