@@ -19,12 +19,16 @@ Celem raportu sprzedażowego jest umożliwienie śledzenia wyników sprzedaży i
         3.  Wolumen sprzedaży
         4.  Czas dostawy do klienta
 2.  Przygotowanie źródeł danych
-    1.  Architektura przepływu danych![](diagrams/architektura_przeplywu.png)
-    2.  Struktura bazy danych![](diagrams/struktura_db.png)
+    1.  Architektura przepływu danych
+       ![](diagrams/architektura_przeplywu.png)
+    3.  Struktura bazy danych
+       ![](diagrams/struktura_db.png)
 3.  Tworzenie modelu danych![](diagrams/model_danych.png)
 4.  Wizualizacja danych
-    1.  Strona Sprzedaży![](diagrams/wizualizacje_sprzedaż.png)
-    2.  Strona Dostawy![](diagrams/wizualizacje_dostawa.png)
+    1.  Strona Sprzedaży
+       ![](diagrams/wizualizacje_sprzedaż.png)
+    3.  Strona Dostawy
+       ![](diagrams/wizualizacje_dostawa.png)
 
 ## Technologie i narzędzia
 
